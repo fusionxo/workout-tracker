@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { Home } from './pages/Home';
-import { Graphs } from './pages/Graphs';
-import { History } from './pages/History';
+import { Home } from './Pages/Home';
+import { Graphs } from './Pages/Graphs';
+import { History } from './Pages/History';
 import { ThemeToggle } from './components/ThemeToggle';
 import { PWAInstaller } from './components/PWAInstaller';
 import { SettingsModal } from './components/SettingsModal';
